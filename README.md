@@ -1,5 +1,4 @@
-# Hse38-
-<h1 align="center">
+<!-- Haluk Şakir Ekinci – GitHub Profile --><h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B+I'm+Haluk+%C5%9Eakir;Full-stack+Developer;AI+Product+Builder;Istanbul+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
 </h1>
 
