@@ -1,14 +1,11 @@
-<!-- Haluk Şakir Ekinci – GitHub Profile --><h1 align="center">
+<!-- Haluk Şakir Ekinci – GitHub Profile -->
+
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B+I'm+Haluk+%C5%9Eakir;Full-stack+Developer;AI+Product+Builder;Istanbul+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   Building AI-powered web products from scratch · Currently crafting <b>HireIQ</b>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hse38&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hse38&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
 </p>
 
 ---
@@ -41,13 +38,7 @@
 
 ### 🚀 What I'm Building
 
-- 🤖 **[HireIQ](https://github.com/Hse38)** — AI-powered HR & CV management platform (Next.js + Gemini 2.5 Flash)
-
----
-
-<p align="center">
-  <i>📍 Istanbul · Open to collaboration · Building in public</i>
-</p>
+- 🤖 **[HireIQ](https://hireiq.com.tr)** — AI-powered HR & CV management platform (Next.js + Gemini 2.5 Flash)
 
 ---
 
@@ -59,6 +50,8 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Hse38/Hse38/output/github-snake.svg" />
 </picture>
 
+---
+
 ### ⚡ Skills
 
 ![Next.js](https://img.shields.io/badge/Next.js-95%25-000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=111&color=58a6ff)
@@ -67,8 +60,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-000?style=flat-square&logo=postgresql&logoColor=white&labelColor=111&color=4169E1)
 ![AI/LLM](https://img.shields.io/badge/AI%2FLLM-75%25-000?style=flat-square&logo=googlegemini&logoColor=white&labelColor=111&color=bc8cff)
 
+---
+
 ### 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hse38&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  <i>📍 Istanbul · Open to collaboration · Building in public</i>
 </p>
