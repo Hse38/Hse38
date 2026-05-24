@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hse38"><img src="https://komarev.com/ghpvc/?username=Hse38&color=58a6ff&style=flat-square&label=profile+views" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hse38&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hse38&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
 </p>
 
 ---
@@ -47,6 +48,9 @@
 <p align="center">
   <i>📍 Istanbul · Open to collaboration · Building in public</i>
 </p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <picture>
