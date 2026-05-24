@@ -47,3 +47,24 @@
 <p align="center">
   <i>📍 Istanbul · Open to collaboration · Building in public</i>
 </p>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hse38/Hse38/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hse38/Hse38/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hse38/Hse38/output/github-snake.svg" />
+</picture>
+
+### ⚡ Skills
+
+![Next.js](https://img.shields.io/badge/Next.js-95%25-000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=111&color=58a6ff)
+![Node.js](https://img.shields.io/badge/Node.js-90%25-000?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=111&color=3fb950)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-000?style=flat-square&logo=typescript&logoColor=white&labelColor=111&color=3178c6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-000?style=flat-square&logo=postgresql&logoColor=white&labelColor=111&color=4169E1)
+![AI/LLM](https://img.shields.io/badge/AI%2FLLM-75%25-000?style=flat-square&logo=googlegemini&logoColor=white&labelColor=111&color=bc8cff)
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hse38&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
