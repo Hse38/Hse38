@@ -1,25 +1,59 @@
 <!-- Haluk Şakir Ekinci – GitHub Profile -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B+I'm+Haluk+%C5%9Eakir;Full-stack+Developer;AI+Product+Builder;Istanbul+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Haluk+%C5%9Eakir;Full-stack+Developer;AI+Product+Builder;Turning+ideas+into+products+%F0%9F%9A%80;Istanbul+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   Building AI-powered web products from scratch · Currently crafting <b>HireIQ</b>
 </p>
 
+<p align="center">
+  <a href="https://haluksakirekinci.com.tr"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://hireiq.com.tr"><img src="https://img.shields.io/badge/HireIQ-5865F2?style=flat-square&logo=rocket&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/haluksakirekinci"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Hse38&color=58a6ff&style=flat-square&label=profile+views" />
+</p>
+
 ---
 
-### 🛠 Tech Stack
+### 🖥️ Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?logo=framer&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white&style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000?logo=jsonwebtokens&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+
+### 🗄️ Database & Cloud
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=flat-square)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+### 🤖 AI & Tools
+
+![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?logo=googlegemini&logoColor=white&style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-000?logo=chainlink&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 ---
 
@@ -37,7 +71,9 @@
 
 ### 🚀 What I'm Building
 
-- 🤖 **[HireIQ](https://hireiq.com.tr)** — AI-powered HR & CV management platform (Next.js + Gemini 2.5 Flash)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🤖 **[HireIQ](https://hireiq.com.tr)** | AI-powered HR & CV management platform | Next.js · Gemini 2.5 · PostgreSQL |
 
 ---
 
@@ -53,11 +89,23 @@
 
 ### ⚡ Skills
 
+**Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-95%25-000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=111&color=58a6ff)
-![Node.js](https://img.shields.io/badge/Node.js-90%25-000?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=111&color=3fb950)
+![React](https://img.shields.io/badge/React-90%25-000?style=flat-square&logo=react&logoColor=white&labelColor=111&color=58a6ff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-85%25-000?style=flat-square&logo=typescript&logoColor=white&labelColor=111&color=3178c6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-80%25-000?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=111&color=06B6D4)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-90%25-000?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=111&color=3fb950)
+![Express](https://img.shields.io/badge/Express-85%25-000?style=flat-square&logo=express&logoColor=white&labelColor=111&color=3fb950)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-000?style=flat-square&logo=postgresql&logoColor=white&labelColor=111&color=4169E1)
-![AI/LLM](https://img.shields.io/badge/AI%2FLLM-75%25-000?style=flat-square&logo=googlegemini&logoColor=white&labelColor=111&color=bc8cff)
+![REST API](https://img.shields.io/badge/REST_API-85%25-000?style=flat-square&logo=postman&logoColor=white&labelColor=111&color=FF6C37)
+
+**AI & Other**
+![AI/LLM](https://img.shields.io/badge/AI%2FLLM-80%25-000?style=flat-square&logo=googlegemini&logoColor=white&labelColor=111&color=bc8cff)
+![Prompt Eng.](https://img.shields.io/badge/Prompt_Eng.-85%25-000?style=flat-square&logo=openai&logoColor=white&labelColor=111&color=bc8cff)
+![Git](https://img.shields.io/badge/Git-90%25-000?style=flat-square&logo=git&logoColor=white&labelColor=111&color=F05032)
+![Docker](https://img.shields.io/badge/Docker-60%25-000?style=flat-square&logo=docker&logoColor=white&labelColor=111&color=2496ED)
 
 ---
 
