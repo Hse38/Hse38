@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://haluksakirekinci.com.tr"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.haluksakirekinci.com.tr"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://hireiq.com.tr"><img src="https://img.shields.io/badge/HireIQ-5865F2?style=flat-square&logo=rocket&logoColor=white" /></a>
   <a href="https://linkedin.com/in/haluksakirekinci"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Hse38&color=58a6ff&style=flat-square&label=profile+views" />
