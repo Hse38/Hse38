@@ -49,8 +49,10 @@
 
 <br>
 
+### The year
+
 <p align="center">
-  <img src="./assets/year.svg" alt="Contributions in the last year" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%" />
 </p>
 
 <br>
