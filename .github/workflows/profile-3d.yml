@@ -20,6 +20,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Build year card
+        run: python3 scripts/build_year.py
+
       - name: Commit and Push
         run: |
           git config user.name github-actions

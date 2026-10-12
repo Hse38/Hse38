@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="456" viewBox="0 0 1200 456" role="img" aria-label="2,129 contributions, Oct 2025  —  Oct 2026">
+<defs>
+<linearGradient id="activity" x1="0" y1="168" x2="0" y2="312" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#9ecbff"/>
+<stop offset="100%" stop-color="#1f6feb"/>
+</linearGradient>
+<clipPath id="lang"><rect x="48" y="396" width="1104" height="8" rx="4"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="455" rx="18" fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="40" width="36" height="3" rx="1.5" fill="#58a6ff"/>
+<text x="48" y="72" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3.4">THE YEAR</text>
+<text x="48" y="132" fill="#f0f6fc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700">2,129</text>
+<text x="256" y="132" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">contributions</text>
+<text x="1152" y="128" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">Oct 2025  —  Oct 2026</text>
+<line x1="48" y1="240.0" x2="1152" y2="240.0" stroke="#30363d" stroke-dasharray="3 7"/>
+<line x1="48" y1="168.0" x2="1152" y2="168.0" stroke="#30363d" stroke-dasharray="3 7"/>
+<line x1="48" y1="312" x2="1152" y2="312" stroke="#30363d"/>
+<rect x="51.96" y="310.00" width="12.91" height="2.00" rx="3" fill="#30363d"/>
+<rect x="72.79" y="289.25" width="12.91" height="22.75" rx="3" fill="url(#activity)"/>
+<rect x="93.62" y="306.00" width="12.91" height="6.00" rx="3" fill="url(#activity)"/>
+<rect x="114.45" y="306.00" width="12.91" height="6.00" rx="3" fill="url(#activity)"/>
+<rect x="135.28" y="297.06" width="12.91" height="14.94" rx="3" fill="url(#activity)"/>
+<rect x="156.11" y="306.00" width="12.91" height="6.00" rx="3" fill="url(#activity)"/>
+<rect x="176.94" y="294.29" width="12.91" height="17.71" rx="3" fill="url(#activity)"/>
+<rect x="197.77" y="303.42" width="12.91" height="8.58" rx="3" fill="url(#activity)"/>
+<rect x="218.60" y="306.00" width="12.91" height="6.00" rx="3" fill="url(#activity)"/>
+<rect x="239.43" y="310.00" width="12.91" height="2.00" rx="3" fill="#30363d"/>
+<rect x="260.26" y="286.66" width="12.91" height="25.34" rx="3" fill="url(#activity)"/>
+<rect x="281.09" y="306.00" width="12.91" height="6.00" rx="3" fill="url(#activity)"/>
+<rect x="301.92" y="261.16" width="12.91" height="50.84" rx="3" fill="url(#activity)"/>
+<rect x="322.75" y="170.27" width="12.91" height="141.73" rx="3" fill="url(#activity)"/>
+<rect x="343.58" y="257.46" width="12.91" height="54.54" rx="3" fill="url(#activity)"/>
+<rect x="364.41" y="273.21" width="12.91" height="38.79" rx="3" fill="url(#activity)"/>
+<rect x="385.24" y="298.87" width="12.91" height="13.13" rx="3" fill="url(#activity)"/>
+<rect x="406.07" y="260.64" width="12.91" height="51.36" rx="3" fill="url(#activity)"/>
+<rect x="426.90" y="290.44" width="12.91" height="21.56" rx="3" fill="url(#activity)"/>
+<rect x="447.73" y="310.00" width="12.91" height="2.00" rx="3" fill="#30363d"/>
+<rect x="468.56" y="287.28" width="12.91" height="24.72" rx="3" fill="url(#activity)"/>
+<rect x="489.39" y="287.03" width="12.91" height="24.97" rx="3" fill="url(#activity)"/>
+<rect x="510.22" y="267.79" width="12.91" height="44.21" rx="3" fill="url(#activity)"/>
+<rect x="531.05" y="310.00" width="12.91" height="2.00" rx="3" fill="#30363d"/>
+<rect x="551.88" y="228.37" width="12.91" height="83.63" rx="3" fill="url(#activity)"/>
+<rect x="572.71" y="168.00" width="12.91" height="144.00" rx="3" fill="url(#activity)"/>
+<rect x="593.54" y="268.22" width="12.91" height="43.78" rx="3" fill="url(#activity)"/>
+<rect x="614.37" y="223.10" width="12.91" height="88.90" rx="3" fill="url(#activity)"/>
+<rect x="635.20" y="270.91" width="12.91" height="41.09" rx="3" fill="url(#activity)"/>
+<rect x="656.03" y="184.35" width="12.91" height="127.65" rx="3" fill="url(#activity)"/>
+<rect x="676.86" y="269.68" width="12.91" height="42.32" rx="3" fill="url(#activity)"/>
+<rect x="697.69" y="252.79" width="12.91" height="59.21" rx="3" fill="url(#activity)"/>
+<rect x="718.52" y="234.86" width="12.91" height="77.14" rx="3" fill="url(#activity)"/>
+<rect x="739.35" y="284.20" width="12.91" height="27.80" rx="3" fill="url(#activity)"/>
+<rect x="760.18" y="242.45" width="12.91" height="69.55" rx="3" fill="url(#activity)"/>
+<rect x="781.01" y="246.01" width="12.91" height="65.99" rx="3" fill="url(#activity)"/>
+<rect x="801.84" y="225.72" width="12.91" height="86.28" rx="3" fill="url(#activity)"/>
+<rect x="822.67" y="299.56" width="12.91" height="12.44" rx="3" fill="url(#activity)"/>
+<rect x="843.50" y="286.51" width="12.91" height="25.49" rx="3" fill="url(#activity)"/>
+<rect x="864.34" y="294.89" width="12.91" height="17.11" rx="3" fill="url(#activity)"/>
+<rect x="885.17" y="253.58" width="12.91" height="58.42" rx="3" fill="url(#activity)"/>
+<rect x="906.00" y="299.04" width="12.91" height="12.96" rx="3" fill="url(#activity)"/>
+<rect x="926.83" y="280.76" width="12.91" height="31.24" rx="3" fill="url(#activity)"/>
+<rect x="947.66" y="258.80" width="12.91" height="53.20" rx="3" fill="url(#activity)"/>
+<rect x="968.49" y="295.50" width="12.91" height="16.50" rx="3" fill="url(#activity)"/>
+<rect x="989.32" y="310.00" width="12.91" height="2.00" rx="3" fill="#30363d"/>
+<rect x="1010.15" y="295.59" width="12.91" height="16.41" rx="3" fill="url(#activity)"/>
+<rect x="1030.98" y="269.45" width="12.91" height="42.55" rx="3" fill="url(#activity)"/>
+<rect x="1051.81" y="306.00" width="12.91" height="6.00" rx="3" fill="url(#activity)"/>
+<rect x="1072.64" y="306.00" width="12.91" height="6.00" rx="3" fill="url(#activity)"/>
+<rect x="1093.47" y="294.26" width="12.91" height="17.74" rx="3" fill="url(#activity)"/>
+<rect x="1114.30" y="269.62" width="12.91" height="42.38" rx="3" fill="url(#activity)"/>
+<rect x="1135.13" y="306.00" width="12.91" height="6.00" rx="3" fill="url(#activity)"/>
+<text x="58.4" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Oct</text>
+<text x="120.9" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Nov</text>
+<text x="225.1" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Dec</text>
+<text x="308.4" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Jan</text>
+<text x="391.7" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Feb</text>
+<text x="475.0" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Mar</text>
+<text x="579.2" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Apr</text>
+<text x="662.5" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">May</text>
+<text x="766.6" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Jun</text>
+<text x="850.0" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Jul</text>
+<text x="933.3" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Aug</text>
+<text x="1037.4" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Sep</text>
+<text x="1120.8" y="338" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">Oct</text>
+<text x="48" y="378" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.4">LANGUAGES</text>
+<g clip-path="url(#lang)">
+<rect x="48.00" y="396" width="795.38" height="8" fill="#58a6ff"/>
+<rect x="842.88" y="396" width="110.90" height="8" fill="#79c0ff"/>
+<rect x="953.28" y="396" width="88.82" height="8" fill="#388bfd"/>
+<rect x="1041.60" y="396" width="77.78" height="8" fill="#1f6feb"/>
+<rect x="1118.88" y="396" width="33.62" height="8" fill="#484f58"/>
+</g>
+<circle cx="52.0" cy="428" r="4" fill="#58a6ff"/>
+<text x="64.0" y="432" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">TypeScript  72%</text>
+<circle cx="210.0" cy="428" r="4" fill="#79c0ff"/>
+<text x="222.0" y="432" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">HTML  10%</text>
+<circle cx="322.4" cy="428" r="4" fill="#388bfd"/>
+<text x="334.4" y="432" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">JavaScript  8%</text>
+<circle cx="472.8" cy="428" r="4" fill="#1f6feb"/>
+<text x="484.8" y="432" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Python  7%</text>
+<circle cx="592.8" cy="428" r="4" fill="#484f58"/>
+<text x="604.8" y="432" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">other  3%</text>
+</svg>
