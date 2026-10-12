@@ -106,13 +106,11 @@
 
 ---
 
-### 🧊 Contribution Skyline
+### 🌌 Contribution Skyline
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Skyline" width="100%" />
 </p>
-
----
 
 ### ⚡ Skills
 
